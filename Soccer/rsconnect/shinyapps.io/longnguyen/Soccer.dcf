@@ -1,0 +1,12 @@
+name: Soccer
+title: Soccer
+username:
+account: longnguyen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 820010
+bundleId: 1974537
+url: https://longnguyen.shinyapps.io/Soccer/
+when: 1553897683.40329
+asMultiple: FALSE
+asStatic: FALSE
